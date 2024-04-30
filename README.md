@@ -1,5 +1,7 @@
 Demo of issue with classes that extends sealed class.
 
+https://github.com/UnnamedXAer/java_language_server_issue_sealed/assets/32594701/9635e467-9234-426e-b8be-ed1d740c3535
+
 ```log
 !MESSAGE Error computing hover
 !STACK 0
