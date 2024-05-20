@@ -1,0 +1,12 @@
+{
+  "workbench.tree.enableStickyScroll": false,
+  "editor.stickyScroll.scrollWithEditor": false,
+  "editor.hover.sticky": false,
+  "editor.stickyScroll.enabled": false,
+  "rainbow_csv.enable_sticky_header": false,
+  "editor.stickyScroll.maxLineCount": 1,
+  "workbench.tree.stickyScrollMaxItemCount": 1,
+  "editor.stickyScroll.defaultModel": "outlineModel",
+  "breadcrumbs.enabled": true,
+  "breadcrumbs.filePath": "last"
+}
